@@ -2,8 +2,6 @@
 
 ## Background
 
-What good is data without a good plot to tell the story?
-
 This challenge uses Python Matplotlib on a real-world situation and data set:
 
 ![Laboratory](Images/Laboratory.jpg)
