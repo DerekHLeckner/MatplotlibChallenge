@@ -6,7 +6,7 @@ This challenge uses Python Matplotlib on a real-world situation and data set:
 
 ![Laboratory](Images/Laboratory.jpg)
 
-In this challenge, we are going to generate all of the tables and figures needed for the technical report of a medical study and provide a summary of the results. 
+In this challenge, we generate all of the tables and figures needed for the technical report of a medical study and provide a summary of the results. 
 
 ## Instructions
 
